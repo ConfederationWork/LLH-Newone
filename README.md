@@ -1,4 +1,6 @@
-# York Dev
+# LLH BOT Copyright YORK DEV
+
+# an idiots guid bot just using this for testing not mine
 
 This bot serves as one of the backbones of the Idiot's Guide Community, using the communities [Guide Bot](https://github.com/An-Idiots-Guide/guidebot) as a base framework, York Dev expands on it's functionalities with common error detection with solution, fun commands, as well as a tag and example command!
 
